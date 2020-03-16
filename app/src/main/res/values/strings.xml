@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping List Take</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="to_buy">What to Buy?</string>
+    <string name="amount">How many?</string>
+
+
+
+</resources>
